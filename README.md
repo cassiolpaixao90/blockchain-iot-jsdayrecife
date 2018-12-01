@@ -1,0 +1,11 @@
+https://sawtooth.hyperledger.org/docs/core/releases/latest/
+https://github.com/rwaldron/johnny-five
+https://github.com/nebrius/raspi-io
+https://github.com/cassiolpaixao90/knot-iot-blockchain
+https://www.gartner.com/imagesrv/books/iot/iotEbook_digital.pdf
+http://www.ikewai.com/WordPress/2016/12/12/sinais-do-futuro-imediato-1-internet-das-coisas/
+https://bitcoin.org/bitcoin.pdf
+https://www.knot.cesar.org.br/
+https://aws.amazon.com/pt/iot/
+https://www.ibm.com/internet-of-things
+https://www.hyperledger.org/projects/fabric
